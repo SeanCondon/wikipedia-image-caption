@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="test_resnet_embeddings_part-00000.csv">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/data/image_data_test/resnet_embeddings/test_resnet_embeddings_part-00000.csv.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
